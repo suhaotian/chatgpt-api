@@ -297,6 +297,7 @@ All of these awesome projects are built using the `chatgpt` package. 🤯
 
 - [Twitter Bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) powered by ChatGPT ✨
   - Mention [@ChatGPTBot](https://twitter.com/ChatGPTBot) on Twitter with your prompt to try it out
+- [ChatGPT API Server](https://github.com/waylaidwanderer/node-chatgpt-api) - API server for this package with support for multiple OpenAI accounts, proxies, and load-balancing requests between accounts.
 - [Lovelines.xyz](https://lovelines.xyz?ref=chatgpt-api)
 - [Chrome Extension](https://github.com/gragland/chatgpt-everywhere) ([demo](https://twitter.com/gabe_ragland/status/1599466486422470656))
 - [VSCode Extension #1](https://github.com/mpociot/chatgpt-vscode) ([demo](https://twitter.com/marcelpociot/status/1599180144551526400), [updated version](https://github.com/timkmecl/chatgpt-vscode), [marketplace](https://marketplace.visualstudio.com/items?itemName=timkmecl.chatgpt))
@@ -334,6 +335,7 @@ All of these awesome projects are built using the `chatgpt` package. 🤯
 - [WhatsApp Bot #1](https://github.com/pascalroget/whatsgpt) (multi-user support)
 - [WhatsApp Bot #2](https://github.com/amosayomide05/chatgpt-whatsapp-bot)
 - [WhatsApp Bot #3](https://github.com/navopw/whatsapp-chatgpt)
+- [WhatsApp Bot #4](https://github.com/noelzappy/chatgpt-whatsapp) (schedule periodic messages)
 - [Matrix Bot](https://github.com/matrixgpt/matrix-chatgpt-bot)
 - [Rental Cover Letter Generator](https://sharehouse.app/ai)
 - [Assistant CLI](https://github.com/diciaup/assistant-cli)
@@ -349,6 +351,7 @@ All of these awesome projects are built using the `chatgpt` package. 🤯
 - [Continuous Conversation](https://github.com/DanielTerletzkiy/chat-gtp-assistant)
 - [Figma plugin](https://github.com/frederickk/chatgpt-figma-plugin)
 - [NestJS server](https://github.com/RusDyn/chatgpt_nestjs_server)
+- [NestJS ChatGPT Starter Boilerplate](https://github.com/mitkodkn/nestjs-chatgpt-starter)
 - [Wordsmith: Add-in for Microsoft Word](https://github.com/xtremehpx/Wordsmith)
 
 If you create a cool integration, feel free to open a PR and add it to the list.
